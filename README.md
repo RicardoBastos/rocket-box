@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">Como usar</a>
 </p>
 
@@ -23,7 +23,7 @@
 </h1>
 
 
-## :rocket: technologies
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com:
 

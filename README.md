@@ -1,7 +1,8 @@
+<br>
 <h1 align="center">
     <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/logo.svg" />
 </h1>
-
+<br>
 
 <p align="center">
   <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,9 +21,9 @@
 </h1>
 
 
-## :rocket: Tecnologias
+## :rocket: technologies
 
-Esse projetos foi desenvolvido com:
+Esse projeto foi desenvolvido com:
 
 - [Node.js][nodejs]
 - [React](https://pt-br.reactjs.org/)

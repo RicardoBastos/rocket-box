@@ -12,7 +12,9 @@
 
 <p align="center">
 ![App Screenshot](https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/rocketbox.gif )
+</p>
 
+<p align="center">
 ![App Screenshot](https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/rocketbox-mobile.png )
 </p>
 

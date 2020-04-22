@@ -1,8 +1,10 @@
-<br>
+<br />
+
 <h1 align="center">
     <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/logo.svg" />
 </h1>
-<br>
+
+<br />
 
 <p align="center">
   <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

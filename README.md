@@ -1,8 +1,8 @@
 <br>
 
-<h1 align="center">
+<p align="center">
     <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/logo.svg" />
-</h1>
+</p>
 
 <br>
 

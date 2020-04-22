@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/logo.svg" />
     <br>
-    Rocketbox<br />
+    Semana Omnistack 7 - Rocketseat<br />
 </h1>
 
 
@@ -10,11 +10,11 @@
   <a href="#information_source-how-to-use">Como usar</a>
 </p>
 
-
+<p align="center">
 ![App Screenshot](https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/rocketbox.gif )
 
 ![App Screenshot](https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/rocketbox-mobile.png )
-
+</p>
 
 ## :rocket: Tecnologias
 
